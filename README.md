@@ -14,5 +14,5 @@ The template comes with a set of _VBA_-Macros, in order to provide support when
 
 In addition, the tool calculates the time worked for each day plus the _+/-_-values.
 
-A pivot table can be used to get an overview of what was recorded (aggregated by month/calenderweek and type,resp.)
+A _pivot table_ can be used to get an overview of what was recorded (aggregated by month/calenderweek and type,resp.).
 
