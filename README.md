@@ -6,6 +6,7 @@ Overview
 --------
 
 Excel template that should help with recording of time worked.
+
 The template comes with a set of _VBA_-Macros, in order to provide support when
 - looking for the current date, 
 - adding the respective day type (e.g. work, flexday, etc.),
