@@ -1,5 +1,5 @@
 
-timetracker <img src="figures/timetracker_hex.png" align="right" />
+timetracker <img src="figures/logo/timetracker_hex.png" align="right" />
 ========================================================================
 
 Overview
