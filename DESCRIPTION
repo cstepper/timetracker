@@ -1,0 +1,9 @@
+Package: timetracker
+Title: Track your Time and Watch your Hours Worked
+Version: 0.1.1
+Date: 2018-12-03
+Author: Christoph Stepper (christoph.stepper@gmail.com)
+Description: Excel template with a set of VBA-Macros, 
+  that should help with recording of time worked. 
+License: MIT + file LICENSE
+Encoding: UTF-8
