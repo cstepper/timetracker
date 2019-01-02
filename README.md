@@ -11,7 +11,7 @@ The template comes with a set of *VBA*-Macros, in order to provide
 support when
 
   - looking for the current date,
-  - adding the respective day type (e.g. work, flexday, etc.),
+  - adding the respective day type (e.g. work, flexday, etc.),
   - inserting the timestamps for start and end, and
   - calculating the break time.
 
