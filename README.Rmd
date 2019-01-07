@@ -10,6 +10,8 @@ output:
 
 # timetracker ![](figures/logo/timetracker_hex.png)
 
+-----
+
 ## Overview
 
 Excel template that should help with recording of time worked.
