@@ -1,4 +1,10 @@
-## timetracker 0.0.2
+## timetracker 0.1.3
+
+changes:
+  - changed the default values for break calculation.
+
+
+## timetracker 0.1.2
 
 changes:
   - renamed package DESCRIPTION file to PACKAGE, as it is no R package
