@@ -2,6 +2,7 @@
 
 changes:
   - changed the default values for break calculation.
+  - UNDO: renamed package DESCRIPTION file to PACKAGE, as it is no R package
 
 
 ## timetracker 0.1.2
