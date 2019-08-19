@@ -1,5 +1,5 @@
 
-# timetracker ![](figures/logo/timetracker_hex.png)
+# timetracker ![](figures/logo.png)
 
 -----
 
