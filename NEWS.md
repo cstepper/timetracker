@@ -1,3 +1,9 @@
+## timetracker 0.1.4 (2020-01-07)
+
+changes:
+  - added template for 2020
+
+
 ## timetracker 0.1.3
 
 changes:
@@ -20,4 +26,3 @@ changes:
 ## timetracker 0.1.0
 
 initial release
-

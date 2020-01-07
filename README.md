@@ -32,4 +32,4 @@ German law:
 ## Worktime Aggregation
 
 A *pivot table* can be used to get an overview of what was recorded
-(aggregated by month/calenderweek and type,resp.).
+(aggregated by month/calenderweek and type, resp.).
