@@ -1,5 +1,7 @@
 
-# timetracker ![](figures/logo.png)
+<!-- timetracker ![](figures/logo.png) -->
+# timetracker <img src='figures/logo.png' align="right" height="139" />
+
 
 -----
 
