@@ -2,6 +2,11 @@
 
 changes:
   - added template for 2020
+  - added shortcuts for 
+    + *select daytype*: **Ctrl + Shift + T**
+    + *start work*: **Ctrl + Shift + B**
+    + *end work*: **Ctrl + Shift + N**
+    + *enter break*: **Ctrl + Shift + Z**
 
 
 ## timetracker 0.1.3
