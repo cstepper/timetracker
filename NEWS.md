@@ -1,3 +1,9 @@
+## timetracker 0.1.5 (2020-12-23)
+
+changes:
+  - added template for 2021
+
+
 ## timetracker 0.1.4 (2020-01-07)
 
 changes:
